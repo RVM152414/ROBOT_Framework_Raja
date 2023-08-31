@@ -1,0 +1,7 @@
+datasources:74674e2aefc5d07ea56cd8c20332685e542e1b30
+commandlineoptions:65f95c924ba97541f47949701c4e3c51192a5b43
+suitesfrom:no-suites-from-option
+file:ca7ea3d03ebe4916f826ebaa67ed5f78e3d299a7
+--test Parallel Testing.TC_01 Testing Alert
+--test Parallel Testing.TC_02 Testing Confirm Alert
+--test Parallel Testing.TC_03 Testing Prompt Alert
