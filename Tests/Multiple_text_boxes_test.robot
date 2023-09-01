@@ -15,5 +15,5 @@ Multiple Text Boxes Handling
     @{text}=        get webelements    xpath://input[@type='text']
     FOR     ${mg}      IN   @{text}
             input text    ${mg}     raja
-            sleep    3
+            sleep    2
     END
